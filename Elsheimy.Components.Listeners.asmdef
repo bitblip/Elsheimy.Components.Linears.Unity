@@ -1,0 +1,14 @@
+{
+    "name": "Elsheimy.Components.Listeners",
+    "rootNamespace": "Elsheimy.Components.Listeners",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
